@@ -19,6 +19,9 @@ We aim to have this as a termly event.
 * Pillar Dialogue (open invite of ESD population)
 * Post-email of minutes and key points to the population
 
+**Minutes and FAQ from past dialogue**
+* [Senior Dialogue (3 April 2020)](https://esd.opensutd.org/minutes/Dialogue_S_April_2020.md)
+
 ## Course Planner
 
 We aim to ease the planning process for students and admin staff regarding to the ever more complicating course/track/minor requirements.
@@ -29,7 +32,7 @@ We aim to ease the planning process for students and admin staff regarding to th
 The current version is reactive<br>
 In future development, we would also like to make a recommendation system for course-plan/module given student's strength or interest.
 
-** This is a constant process of updating and maintaining the planner, and we seek interested people to join this open source project. Please email ```zhi_zhou@mymail.sutd.edu.sg``` if interested.
+** This is a constant process of updating and maintaining the planner, and we seek interested people to join this open source project. Please contact us if interested.
 
 # Contacts
 
