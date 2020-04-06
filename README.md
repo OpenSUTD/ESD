@@ -20,7 +20,7 @@ We aim to have this as a termly event.
 * Post-email of minutes and key points to the population
 
 **Minutes and FAQ from past dialogue**
-* [Senior Dialogue (3 April 2020)](https://esd.opensutd.org/minutes/Dialogue_S_April_2020.md)
+* [Senior Dialogue (3 April 2020)](https://esd.opensutd.org/minutes/Dialogue_S_April_2020.html)
 
 ## Course Planner
 
